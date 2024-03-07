@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Gatien CHENU</h1>
 
-<h3 align="center">Student in Télécom Physique Strasbourg engineering school<br>
+<h3 align="center">Master Student in Télécom Physique Strasbourg engineering school<br>
 </h3> 
 
 <br>
