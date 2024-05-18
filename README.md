@@ -5,7 +5,7 @@
 
 <br>
 
-- 🔭 I’m currently working on a [**InsidePSBS**](https://github.com/info-telecom-strasbourg/InsidePSBS) project for Info Télécom Strasbourg.
+- 🔭 I’m currently working @ Auvisus as end of studies internship.
 <a href="https://info-telecom-strasbourg.fr" target="_blank" rel="noreferrer"> <img src="https://physique-ingenierie.fr/wp-content/uploads/2020/10/ITS-150x150.png" alt="ITS" width="20" height="20"/> </a>
 
 
