@@ -5,7 +5,7 @@
 
 <br>
 
-- 🔭 I’m currently working @Auvisus as end of studies internship.
+- 🔭 I’m currently working @Auvisus as machine learning engineer.
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
