@@ -4,6 +4,7 @@
   - 🧑‍🎓 Dual degree master student from University of Strasbourg and Télécom Physique Strasbourg engineering school
 
 <h3 align="left">Connect with me: 
-<a href="http://www.linkedin.com/in/gatien-chenu-a25992238" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gatien-chenu-linkedin" height="20" /></a>
-<a href="mailto:gatien@chenu.me" target="_blank">💬</a>
+<a href="http://www.linkedin.com/in/gatien-chenu-a25992238" target="_blank">👨‍💼 My LinkedIn</a>
+<a href="mailto:gatien@chenu.me" target="_blank">💬 My e-mail</a>
+<a href="https://gatien.chenu.me/">🔗 My website</a>
 </h3>
