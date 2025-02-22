@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Gatien CHENU</h2>
 
   - 🔭 I’m currently working @Auvisus as machine learning engineer.<br>
-  - 🧑‍🎓 Dual degree master student from University of Strasbourg and Télécom Physique Strasbourg engineering school
+  - 🧑‍🎓 Dual master degree acquired from University of Strasbourg and Télécom Physique Strasbourg engineering school
 
 Connect with me: 
 </br>
