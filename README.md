@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Gatien CHENU</h2>
 
-  - 🔭 I’m currently working @[IMAGINE Research Group](https://imagine-lab.enpc.fr/)🌍🌿 on Computer Vision for Earth Observation as a Pre-Doctoral Researcher.<br>
+  - 🔭 I’m currently working at the [IMAGINE Research Group](https://imagine-lab.enpc.fr/)🌍🌿 on Computer Vision for Earth Observation as a Pre-Doctoral Researcher.<br>
   - 🧑‍🎓 Dual master degree acquired from University of Strasbourg and Télécom Physique Strasbourg engineering school
 
 Connect with me: 
